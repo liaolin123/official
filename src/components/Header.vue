@@ -41,7 +41,7 @@ export default {
   height: 78px;
   line-height: 78px;
   display: flex;
-  // justify-content: space-between;
+  justify-content: space-between;
   .header_icon{
     width: 113px;
     height: 78px;
